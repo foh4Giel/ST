@@ -1,0 +1,35 @@
+<!DOCTYPE RCC><RCC version="1.0">
+
+<!--
+    Copyright (C) 2016 foh4Giel, foh4Giel@users.noreply.github.com    
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<qresource>
+    <file alias="fonts/MedievalSharp.ttf">resources/MedievalSharp/MedievalSharp.ttf</file>
+    <file alias="icons/new.png">resources/icons_from_game-icons.net/sun_by_Lorc.png</file>
+    <file alias="icons/save.png">resources/icons_from_game-icons.net/save_by_Delapouite.png</file>
+    <file alias="icons/load.png">resources/icons_from_game-icons.net/load_by_Delapouite.png</file>
+    <file alias="icons/settings.png">resources/icons_from_game-icons.net/auto-repair_by_Lorc.png</file>
+    <file alias="icons/info.png">resources/icons_from_game-icons.net/bookshelf_by_Delapouite.png</file>
+    <file alias="icons/characters.png">resources/icons_from_game-icons.net/minions_by_Lorc.png</file>
+    <file alias="icons/houses.png">resources/icons_from_game-icons.net/house_by_Delapouite.png</file>
+    <file alias="icons/inventory.png">resources/icons_from_game-icons.net/locked-chest_by_Lorc.png</file>
+    <file alias="icons/planning.png">resources/icons_from_game-icons.net/quill-ink_by_Lorc.png</file>
+    <file alias="icons/income.png">resources/icons_from_game-icons.net/profit_by_Lorc.png</file>
+    <file alias="icons/log.png">resources/icons_from_game-icons.net/bookmark_by_Lorc.png</file>
+    <file alias="icons/start.png">resources/icons_from_game-icons.net/stopwatch_by_Lorc.png</file>
+</qresource>
+</RCC>

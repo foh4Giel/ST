@@ -1,0 +1,91 @@
+== OVERVIEW ==
+
+For different parts of this project, different licenses apply. This is because some 3rd party 
+components (mostly artwork such as, for example, fonts and icons) have been released under different 
+licenses and, of course, these licenses continue to apply to those components and their authors 
+retain all rights within the original licenses. All licenses are free(ish) / open source(ish) 
+licenses but that doesn't imply they are compatible. In the following, we will distinguish between 
+the core license which covers the contributions of this project and the 3rd party licenses which 
+cover the 3rd party components used by this project.
+
+IMPORTANT: All 3rd party components can be found in the ./resources folder and contain a copy of 
+           their respective license. Not all contents of the ./resources folder are necessarily 3rd 
+           party components. A complete list of 3rd party components and their licenses is given 
+           below.  
+           
+IMPORTANT: The creators and copyright holders of 3rd party components are not affiliated with this 
+           project, endorse it or can be held liable for any content from this project. Their sole 
+           responsibility is for their original creations and for these just within the scope of  
+           the respective licenses.
+
+=== Core License ===  
+
+This project (except 3rd party components) is distributed under the GNU General Public License 
+(GPL) v3 license. A copy pf the GPL v3 can be found in the LICENSE_GPLv3 file or on 
+<http://www.gnu.org/licenses/>.
+
+=== 3rd Party Components and Licenses ===
+
+==== "Medieval Sharp" Font ====
+Creator:           wmk69
+Copyright:         wmk69, 2011
+Location of Files: ./resources/MedievalSharp/
+License:           SIL Open Font License v1.1
+License File:      ./resources/MedievalSharp/SIL\ -\ Open\ Font\ License.txt
+Link to License:   http://scripts.sil.org/OFL
+Link to Font:      https://fontlibrary.org/en/font/medievalsharp
+Modifications:     None
+
+==== Icons ====
+Creator:           Lorc, Delapouite (see below for file-by-file attributions)
+Copyright:         See below for file-by-file attributions; the copyright year is unknown but the 
+                   original files were downloaded in 2016
+Location of Files: ./resources/icons_from_game-icons.net/
+License:           CC BY 3.0
+License File:      ./resources/icons_from_game-icons.net/CC_BY_3.0.html
+Link to License:   http://creativecommons.org/licenses/by/3.0/
+Link to Icons:     http://game-icons.net/
+Modifications:     A manual process using the inkscape editor was used to convert the original svg 
+                   files into png files of the correct size.
+
+File-by-File Attributions:
+ |-----------------------------|-------------------|------------|------------|
+ | Filename                    | Original filename | Creator    | Copyright  |
+ |-----------------------------|-------------------|------------|------------|
+ | auto-repair_by_Lorc.png     | auto-repair.svg   | Lorc       | Lorc       |
+ | auto-repair_by_Lorc.svg     |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | bookmark_by_Lorc.png        | bookmark.svg      | Lorc       | Lorc       | 
+ | bookmark_by_Lorc.svg        |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | bookshelf_by_Delapouite.png | bookshelf.svg     | Delapouite | Delapouite |
+ | bookshelf_by_Delapouite.svg |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | house_by_Delapouite.png     | house.svg         | Delapouite | Delapouite |
+ | house_by_Delapouite.svg     |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | load_by_Delapouite.png      | load.svg          | Delapouite | Delapouite |
+ | load_by_Delapouite.svg      |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | locked-chest_by_Lorc.png    | locked-chest.svg  | Lorc       | Lorc       |
+ | locked-chest_by_Lorc.svg    |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | minions_by_Lorc.png         | minions.svg       | Lorc       | Lorc       |
+ | minions_by_Lorc.svg         |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | profit_by_Lorc.png          | profit.svg        | Lorc       | Lorc       |
+ | profit_by_Lorc.svg          |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | quill-ink_by_Lorc.png       | quill-ink.svg     | Lorc       | Lorc       |
+ | quill-ink_by_Lorc.svg       |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | save_by_Delapouite.png      | save.svg          | Delapouite | Delapouite |
+ | save_by_Delapouite.svg      |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | stopwatch_by_Lorc.png       | stopwatch.svg     | Lorc       | Lorc       |
+ | stopwatch_by_Lorc.svg       |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ | sun_by_Lorc.png             | sun.svg           | Lorc       | Lorc       |
+ | sun_by_Lorc.svg             |                   |            |            |
+ |-----------------------------|-------------------|------------|------------|
+ 
